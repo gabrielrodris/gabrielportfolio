@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #313131;
+}
+
+header {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nome {
+    color: #c9c5c5;
+    padding: 20px;
+
+}
+
+#social {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
